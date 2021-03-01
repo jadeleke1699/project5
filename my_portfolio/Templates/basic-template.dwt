@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+<head>
+<link rel="stylesheet" href="https://use.typekit.net/hub7rqo.css">
+	<meta charset="UTF-8">
+	<!-- TemplateBeginEditable name="doctitle" -->
+	<title>contact</title>
+	<!-- TemplateEndEditable -->
+	<link href="../pages/assets/styles.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" --><style type="text/css">
+	
+	</style>
+
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+
+<div id="container">
+  <nav>
+    <ul>
+      <li><a href="../pages/about.html">About</a></li>
+      <li><a href="../pages/blog.html">Blog</a></li>
+      <li><a href="../pages/gallery.html">Gallery</a></li>
+      <li><a href="../pages/contact.html">Contact</a></li>
+    </ul>
+  </nav>
+  <header></header>
+<!-- TemplateBeginEditable name="main-content" -->
+  <aside><h3>I'm a writer, artist, and student at Cox Mill High School.
+	  </h3>
+
+	  <h3>By Joelle Adeleke</h3>
+</aside>
+ 
+  <main>
+    <h1>Page Title</h1>
+  </main>
+  <!-- TemplateEndEditable -->
+<footer>Content for New footer Tag Goes Here</footer>
+</div>
+
+</body>
+</html>
